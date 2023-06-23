@@ -8,6 +8,10 @@ GPT-Based Thought Organization Tool
 Welcome to our project! We are developing a tool that leverages the capabilities of GPT (Generative Pre-training Transformer) to help you organize your thoughts and ideas.
 We believe that structuring and organizing the complex information in one's mind can lead to deep understanding and insight. We all have moments when our thoughts seem too complex to decipher, and this is where our tool comes in. Some people are naturally good at organizing and structuring their thoughts, others might struggle - regardless of your skill level, our tool is designed to be useful to you.
 
+**Origin of the Name**
+
+The name is a portmanteau created by combining the Japanese pronunciation of thought, "shi-kou," with "copilot," a term often used in generative AI, and "she," which evokes a feminine and gentle image.
+
 ## How the Tool Works
 
 Our GPT-based Thought Organization Tool works in three simple steps:

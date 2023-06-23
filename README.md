@@ -8,9 +8,21 @@ GPT-Based Thought Organization Tool
 Welcome to our project! We are developing a tool that leverages the capabilities of GPT (Generative Pre-training Transformer) to help you organize your thoughts and ideas.
 We believe that structuring and organizing the complex information in one's mind can lead to deep understanding and insight. We all have moments when our thoughts seem too complex to decipher, and this is where our tool comes in. Some people are naturally good at organizing and structuring their thoughts, others might struggle - regardless of your skill level, our tool is designed to be useful to you.
 
-**Origin of the Name**
 
-The name is a portmanteau created by combining the Japanese pronunciation of thought, "shi-kou," with "copilot," a term often used in generative AI, and "she," which evokes a feminine and gentle image.
+
+# Requirements
+
+You need `OPENAI_API_KEY` .
+
+https://openai.com/
+
+
+# Getting Start
+
+You can run on [Google Colaboratory](https://colab.research.google.com/)
+
+Visit [here](./she_copilot.ipynb) , and click `Open in Colab`. 
+
 
 ## How the Tool Works
 
@@ -27,17 +39,9 @@ Understand: Get a clear, structured, organized understanding of what you were pr
 Our tool serves as a virtual assistant, or a co-pilot, guiding you through the process of thought organization. It aids in structuring your thoughts, providing clarity, and helping you gain a deeper understanding of your own thoughts and ideas.
 
 
-
-# Requirements
-
-You need `OPENAI_API_KEY` .
-
-https://openai.com/
+---
 
 
-# Getting start
+**Origin of the Name**
 
-You can run on [Google Colaboratory](https://colab.research.google.com/)
-
-Visit [here](./she_copilot.ipynb) , and click `Open in Colab`. 
-
+The name is a portmanteau created by combining the Japanese pronunciation of thought, "shi-kou," with "copilot," a term often used in generative AI, and "she," which evokes a feminine and gentle image.

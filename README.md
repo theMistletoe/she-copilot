@@ -21,7 +21,7 @@ https://openai.com/
 
 You can run on [Google Colaboratory](https://colab.research.google.com/)
 
-Visit [here](./she_copilot.ipynb) , and click `Open in Colab`. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/theMistletoe/she-copilot/blob/main/she_copilot.ipynb)
 
 
 ## How the Tool Works

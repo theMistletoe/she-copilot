@@ -33,5 +33,7 @@ https://openai.com/
 
 # Getting start
 
+You can run on [Google Colaboratory](https://colab.research.google.com/)
+
 Visit [here](./she_copilot.ipynb) , and click `Open in Colab`. 
 
